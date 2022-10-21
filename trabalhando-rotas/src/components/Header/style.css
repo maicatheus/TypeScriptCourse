@@ -17,7 +17,7 @@ header a + a{
     margin-left: 10px;
 }
 header a:hover{
-    color: rgb(0, 85, 255);
+    color: rgb(0, 76, 255);
     transition: 0.4s;
 }
 
